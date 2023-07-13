@@ -1,4 +1,4 @@
-Chapter 7: Impact of Virtual Communication on Business Performance: Cost Savings and Efficiency Improvements
+Cost Savings and Efficiency Improvements
 ============================================================================================================
 
 In this chapter, we will explore the impact of virtual communication on cost savings and efficiency improvements in a remote work environment.

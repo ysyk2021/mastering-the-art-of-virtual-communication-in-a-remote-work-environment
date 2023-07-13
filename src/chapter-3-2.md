@@ -1,4 +1,4 @@
-Chapter 3: Understanding Virtual Communication in a Remote Work Environment: Types of Virtual Communication
+Types of Virtual Communication
 ===========================================================================================================
 
 In this chapter, we will explore different types of virtual communication that are commonly used in a remote work environment. We will discuss the advantages and disadvantages of each type of virtual communication and provide tips for using them effectively.

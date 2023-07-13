@@ -1,4 +1,4 @@
-Chapter 2: Historical Context of Virtual Communication and Remote Work: Early Examples of Virtual Communication and Remote Work
+Early Examples of Virtual Communication and Remote Work
 ===============================================================================================================================
 
 In this chapter, we will explore the historical context of virtual communication and remote work. We will discuss early examples of virtual communication and remote work and how they have evolved over time.

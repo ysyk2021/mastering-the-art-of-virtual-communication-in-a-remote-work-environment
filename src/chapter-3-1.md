@@ -1,4 +1,4 @@
-Chapter 3: Understanding Virtual Communication in a Remote Work Environment: Defining Virtual Communication
+Defining Virtual Communication
 ===========================================================================================================
 
 In this chapter, we will define virtual communication in the context of a remote work environment. We will explore the different types of virtual communication and discuss the benefits and challenges of communicating virtually.

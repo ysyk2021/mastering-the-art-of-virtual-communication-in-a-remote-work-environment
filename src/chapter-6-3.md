@@ -1,4 +1,4 @@
-Chapter 6: Strategies for Successful Virtual Communication in a Remote Work Environment: Building and Maintaining Professional Networks and Relationships
+Building and Maintaining Professional Networks and Relationships
 =========================================================================================================================================================
 
 In this chapter, we will explore strategies for building and maintaining professional networks and relationships in a remote work environment. We will discuss the importance of networking and relationship-building, as well as practical tips for doing so virtually.

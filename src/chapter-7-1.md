@@ -1,4 +1,4 @@
-Chapter 7: Impact of Virtual Communication on Business Performance: Improvements in Employee Retention and Recruitment
+Improvements in Employee Retention and Recruitment
 ======================================================================================================================
 
 In this chapter, we will explore the impact of virtual communication on business performance, specifically how it can improve employee retention and recruitment.

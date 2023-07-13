@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Overview of Virtual Communication in a Remote Work Environment](chapter-1-1.md)
   - [Purpose of the Book](chapter-1-2.md)
 - [Chapter 2: Historical Context of Virtual Communication and Remote Work](chapter-2.md)
@@ -31,8 +30,5 @@
   - [Predictions for the Future of Virtual Communication in a Remote Work Environment](chapter-8-2.md)
 - [Chapter 9: Case Studies of Virtual Communication in a Remote Work Environment](chapter-9.md)
   - [Successful Implementations of Virtual Communication in Different Industries](chapter-9-1.md)
-- [Chapter 10: Conclusion](chapter-10.md)
-  - [Summary of Key Points](chapter-10-1.md)
-  - [Implications for the Future](chapter-10-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

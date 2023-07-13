@@ -1,4 +1,4 @@
-Chapter 5: Challenges of Virtual Communication in a Remote Work Environment: Building Trust and Rapport with Colleagues
+Building Trust and Rapport with Colleagues
 =======================================================================================================================
 
 In this chapter, we will explore the challenges of virtual communication in a remote work environment, specifically the challenge of building trust and rapport with colleagues. We will discuss why building trust and rapport is important, common challenges in building trust and rapport virtually, and strategies for overcoming these challenges.

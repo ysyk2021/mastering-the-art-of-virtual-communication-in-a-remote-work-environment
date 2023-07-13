@@ -1,4 +1,4 @@
-Chapter 7: Impact of Virtual Communication on Business Performance: Impacts on Innovation and Creativity
+Impacts on Innovation and Creativity
 ========================================================================================================
 
 In this chapter, we will explore the impact of virtual communication on innovation and creativity in a remote work environment.
