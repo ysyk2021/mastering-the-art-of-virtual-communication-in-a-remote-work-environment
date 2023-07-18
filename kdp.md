@@ -8,7 +8,6 @@ This book covers a wide range of topics related to virtual communication, includ
 
 Whether you are a seasoned remote worker or new to the world of virtual communication, this book provides valuable insights and strategies for mastering this critical skill. With a focus on practical advice and real-world examples, "Mastering the Art of Virtual Communication in a Remote Work Environment" is an essential resource for anyone seeking to thrive in today's rapidly changing workplace.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
