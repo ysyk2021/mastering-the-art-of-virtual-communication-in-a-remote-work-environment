@@ -28,7 +28,5 @@
 - [Chapter 8: Future of Virtual Communication in a Remote Work Environment](chapter-8.md)
   - [Emerging Trends and Potential Developments](chapter-8-1.md)
   - [Predictions for the Future of Virtual Communication in a Remote Work Environment](chapter-8-2.md)
-- [Chapter 9: Case Studies of Virtual Communication in a Remote Work Environment](chapter-9.md)
-  - [Successful Implementations of Virtual Communication in Different Industries](chapter-9-1.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

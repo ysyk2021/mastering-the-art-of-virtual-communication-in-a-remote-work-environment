@@ -12,8 +12,6 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 
 
 
-Of course, here are 20 Amazon search keywords related to "Mastering the Art of Virtual Communication in a Remote Work Environment":
-
 1. Remote work
 2. Virtual communication
 3. Video conferencing
