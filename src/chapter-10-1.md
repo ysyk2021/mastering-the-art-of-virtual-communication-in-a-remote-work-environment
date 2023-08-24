@@ -1,5 +1,3 @@
-Summary of Key Points
-=============================================
 
 In this book, we have explored the art of virtual communication in a remote work environment. We have discussed the benefits and challenges of virtual communication, as well as practical strategies for effective communication in a virtual setting.
 

@@ -1,4 +1,3 @@
-# Early Examples of Virtual Communication and Remote Work
 
 In this chapter, we will explore the early examples of virtual communication and remote work. These historical milestones laid the foundation for the digital tools and practices that are now ubiquitous in today's remote work environments.
 

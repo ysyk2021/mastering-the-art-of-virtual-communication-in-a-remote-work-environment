@@ -1,4 +1,3 @@
-# Impacts on Innovation and Creativity
 
 In this chapter, we will explore the impacts of virtual communication on innovation and creativity in a remote work environment. We will discuss the challenges and opportunities that arise when fostering a culture of innovation and creativity in a virtual setting. We will also provide strategies for organizations to encourage collaboration, idea generation, and innovation among remote teams.
 

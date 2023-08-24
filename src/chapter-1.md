@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we provide an overview of virtual communication in a remote work environment and the purpose of this book.
 
