@@ -30,3 +30,4 @@
   - [Predictions for the Future of Virtual Communication in a Remote Work Environment](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
